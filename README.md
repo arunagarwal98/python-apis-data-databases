@@ -1,11 +1,11 @@
 ````markdown
 # Python APIs + Data + Databases ⚙️🔌
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Learning-E92063)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?logo=postgresql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Building-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
 This repository represents **Phase 2** of my backend development journey.
