@@ -28,7 +28,7 @@ https://github.com/ArunAgarwal-aiplatform/core-python-for-ai
 | # | Project | Description | Core Concepts |
 |---|---------|-------------|---------------|
 | **01** | **JSON Schema API Generator** | Generate JSON Schema automatically from any valid JSON using recursive type inference | FastAPI • Pydantic • REST APIs • Recursive Algorithms |
-| **02** | **Loan Amortization REST API** | Transform a command-line loan calculator into a RESTful API with JSON responses | FastAPI • Query Parameters • Response Models • Code Reusability |
+| **02** | **LinkOrbit API** | Organize and discover web links effortlessly with filtering and search capabilities. | FastAPI • SQLAlchemy • REST APIs • Pydantic • Query Parameters • Response Models • CRUD Operations • Code Reusability |
 | **03** | **Notes API with PostgreSQL** | Build a complete CRUD Notes API backed by PostgreSQL | SQLAlchemy • PostgreSQL • CRUD Operations • Environment Variables |
 
 ---
