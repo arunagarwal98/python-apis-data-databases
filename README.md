@@ -12,7 +12,7 @@ This repository represents **Phase 2** of my backend development journey.
 
 **Phase 1** was dedicated entirely to **Core Python**—no external libraries, no frameworks, and no APIs. I wanted to build a strong understanding of the language before moving on to higher-level tools, so every project was developed using only Python's standard library and manual problem-solving.
 
-In this phase, I'm learning how to build **REST APIs**, work with **structured data**, and connect applications to **real databases**. My goal is to understand not only *how* these technologies work, but also *why* they're designed the way they are by building projects from scratch and experimenting with different approaches.
+In this phase, I'm learning how to build **REST APIs**,**Fast APIs** work with **structured data**, and connect applications to **real databases**. My goal is to understand not only *how* these technologies work, but also *why* they're designed the way they are by building projects from scratch and experimenting with different approaches.
 
 I'm documenting this learning journey in public. Every project in this repository reflects what I understood at that point in time. Some concepts required multiple iterations before they finally clicked, and if I revisit these projects later, I'll almost certainly improve them—and that's exactly the point. This repository is a record of continuous learning through building real projects.
 
