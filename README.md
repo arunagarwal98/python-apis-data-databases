@@ -74,7 +74,7 @@ Each project focuses on applying a specific concept—such as API development, r
 python-apis-data-databases/
 
 ├── 01_json_schema_api/
-├── 02_loan_amortization_api/
+├── 02_linkorbit_api/
 ├── 03_notes_api_postgresql/
 └── README.md
 ```
